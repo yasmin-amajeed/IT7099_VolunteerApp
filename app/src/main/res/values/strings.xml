@@ -48,11 +48,11 @@
     <string name="DOB">Date Of Birth</string>
     <string name="education">Education</string>
     <string name="skills">Skills</string>
-    <string name="Female">RadioButton</string>
-    <string name="Male">RadioButton</string>
-    <string name="Gender">radioBtnGender</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="Gender">Gender</string>
     <string name="date_of_birth">Date Of Birth</string>
-    <string name="Email">textEmail</string>
+    <string name="Email">Email</string>
     <string name="email">Email</string>
     <string name="txtPassword">Password</string>
     <string name="txtConfirmPassword">ConfirmPassword</string>
@@ -63,4 +63,6 @@
     <string name="todo1">TODO</string>
     <string name="navigation_drawer_open">Open Navigation drawer</string>
     <string name="navigation_drawer_close">Close Navigation drawer</string>
+    <string name="txtLoginVolunteer">Volunteer Login</string>
+    <string name="volunteerRegistration">Volunteer Registration</string>
 </resources>
